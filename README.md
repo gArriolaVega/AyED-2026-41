@@ -1,8 +1,8 @@
 # Laboratorio de Algoritmos y Estructuras de Datos
 
 
-## Tec. Franco M.Cortinez
-### 4° 3°
+## Gaston Arriola Vega 
+### 4° 1° 
 
 Contenidos:
 * Etapa 1: Fundamentos de Programacion
