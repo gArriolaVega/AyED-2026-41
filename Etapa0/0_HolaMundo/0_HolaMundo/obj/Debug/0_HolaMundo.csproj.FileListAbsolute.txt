@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa0\0_HolaMundo\0_HolaMundo\bin\Debug\0_HolaMundo.exe.config
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa0\0_HolaMundo\0_HolaMundo\bin\Debug\0_HolaMundo.exe
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa0\0_HolaMundo\0_HolaMundo\bin\Debug\0_HolaMundo.pdb
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa0\0_HolaMundo\0_HolaMundo\obj\Debug\0_HolaMundo.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa0\0_HolaMundo\0_HolaMundo\obj\Debug\0_HolaMundo.exe
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa0\0_HolaMundo\0_HolaMundo\obj\Debug\0_HolaMundo.pdb

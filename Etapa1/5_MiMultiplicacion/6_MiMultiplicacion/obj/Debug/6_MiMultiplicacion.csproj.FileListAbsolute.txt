@@ -1,0 +1,8 @@
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\6_MiMultiplicacion\6_MiMultiplicacion\bin\Debug\6_MiMultiplicacion.exe.config
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\6_MiMultiplicacion\6_MiMultiplicacion\bin\Debug\6_MiMultiplicacion.exe
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\6_MiMultiplicacion\6_MiMultiplicacion\bin\Debug\6_MiMultiplicacion.pdb
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\6_MiMultiplicacion\6_MiMultiplicacion\obj\Debug\6_MiMultiplicacion.exe
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\6_MiMultiplicacion\6_MiMultiplicacion\obj\Debug\6_MiMultiplicacion.pdb
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\5_MiMultiplicacion\6_MiMultiplicacion\bin\Debug\6_MiMultiplicacion.exe.config
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\5_MiMultiplicacion\6_MiMultiplicacion\obj\Debug\6_MiMultiplicacion.exe
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\5_MiMultiplicacion\6_MiMultiplicacion\obj\Debug\6_MiMultiplicacion.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\20_MinutosAHoras\20_MinutosAHoras\bin\Debug\20_MinutosAHoras.exe.config
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\20_MinutosAHoras\20_MinutosAHoras\bin\Debug\20_MinutosAHoras.exe
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\20_MinutosAHoras\20_MinutosAHoras\bin\Debug\20_MinutosAHoras.pdb
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\20_MinutosAHoras\20_MinutosAHoras\obj\Debug\20_MinutosAHoras.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\20_MinutosAHoras\20_MinutosAHoras\obj\Debug\20_MinutosAHoras.exe
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\20_MinutosAHoras\20_MinutosAHoras\obj\Debug\20_MinutosAHoras.pdb

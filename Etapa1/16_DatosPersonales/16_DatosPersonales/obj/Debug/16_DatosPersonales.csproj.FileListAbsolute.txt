@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\16_DatosPersonales\16_DatosPersonales\bin\Debug\16_DatosPersonales.exe.config
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\16_DatosPersonales\16_DatosPersonales\bin\Debug\16_DatosPersonales.exe
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\16_DatosPersonales\16_DatosPersonales\bin\Debug\16_DatosPersonales.pdb
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\16_DatosPersonales\16_DatosPersonales\obj\Debug\16_DatosPersonales.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\16_DatosPersonales\16_DatosPersonales\obj\Debug\16_DatosPersonales.exe
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\16_DatosPersonales\16_DatosPersonales\obj\Debug\16_DatosPersonales.pdb

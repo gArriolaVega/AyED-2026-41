@@ -1,0 +1,8 @@
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\8_MiResto\8_MiResto\bin\Debug\8_MiResto.exe.config
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\8_MiResto\8_MiResto\bin\Debug\8_MiResto.exe
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\8_MiResto\8_MiResto\bin\Debug\8_MiResto.pdb
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\8_MiResto\8_MiResto\obj\Debug\8_MiResto.exe
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\8_MiResto\8_MiResto\obj\Debug\8_MiResto.pdb
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\7_MiResto\8_MiResto\bin\Debug\8_MiResto.exe.config
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\7_MiResto\8_MiResto\obj\Debug\8_MiResto.exe
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\7_MiResto\8_MiResto\obj\Debug\8_MiResto.pdb

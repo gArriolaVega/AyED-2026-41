@@ -1,0 +1,5 @@
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\7_MiDivision\7_MiDivision\bin\Debug\7_MiDivision.exe.config
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\7_MiDivision\7_MiDivision\bin\Debug\7_MiDivision.exe
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\7_MiDivision\7_MiDivision\bin\Debug\7_MiDivision.pdb
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\7_MiDivision\7_MiDivision\obj\Debug\7_MiDivision.exe
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\7_MiDivision\7_MiDivision\obj\Debug\7_MiDivision.pdb

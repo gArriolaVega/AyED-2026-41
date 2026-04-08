@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\4_MiSuma\4_MiSuma\bin\Debug\4_MiSuma.exe.config
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\4_MiSuma\4_MiSuma\bin\Debug\4_MiSuma.exe
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\4_MiSuma\4_MiSuma\bin\Debug\4_MiSuma.pdb
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\4_MiSuma\4_MiSuma\obj\Debug\4_MiSuma.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\4_MiSuma\4_MiSuma\obj\Debug\4_MiSuma.exe
+C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\4_MiSuma\4_MiSuma\obj\Debug\4_MiSuma.pdb
