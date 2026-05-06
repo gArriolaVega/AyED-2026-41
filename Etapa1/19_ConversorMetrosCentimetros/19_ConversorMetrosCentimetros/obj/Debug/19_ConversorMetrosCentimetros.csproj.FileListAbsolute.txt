@@ -4,3 +4,6 @@ C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\19_ConversorMetrosCentimetros\19_Co
 C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\19_ConversorMetrosCentimetros\19_ConversorMetrosCentimetros\obj\Debug\19_ConversorMetrosCentimetros.csprojResolveAssemblyReference.cache
 C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\19_ConversorMetrosCentimetros\19_ConversorMetrosCentimetros\obj\Debug\19_ConversorMetrosCentimetros.exe
 C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\19_ConversorMetrosCentimetros\19_ConversorMetrosCentimetros\obj\Debug\19_ConversorMetrosCentimetros.pdb
+C:\Users\Lab AyED\Documents\4_Arriola\AyED-2026-41\Etapa1\19_ConversorMetrosCentimetros\19_ConversorMetrosCentimetros\bin\Debug\19_ConversorMetrosCentimetros.exe.config
+C:\Users\Lab AyED\Documents\4_Arriola\AyED-2026-41\Etapa1\19_ConversorMetrosCentimetros\19_ConversorMetrosCentimetros\obj\Debug\19_ConversorMetrosCentimetros.exe
+C:\Users\Lab AyED\Documents\4_Arriola\AyED-2026-41\Etapa1\19_ConversorMetrosCentimetros\19_ConversorMetrosCentimetros\obj\Debug\19_ConversorMetrosCentimetros.pdb

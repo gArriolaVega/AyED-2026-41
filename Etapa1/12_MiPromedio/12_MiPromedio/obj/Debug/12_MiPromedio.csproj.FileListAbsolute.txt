@@ -4,3 +4,6 @@ C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\12_MiPromedio\12_MiPromedio\bin\Deb
 C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\12_MiPromedio\12_MiPromedio\obj\Debug\12_MiPromedio.csprojResolveAssemblyReference.cache
 C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\12_MiPromedio\12_MiPromedio\obj\Debug\12_MiPromedio.exe
 C:\Users\Lab AyED\Documents\4_Arriola\Etapa1\12_MiPromedio\12_MiPromedio\obj\Debug\12_MiPromedio.pdb
+C:\Users\Lab AyED\Documents\4_Arriola\AyED-2026-41\Etapa1\12_MiPromedio\12_MiPromedio\bin\Debug\12_MiPromedio.exe.config
+C:\Users\Lab AyED\Documents\4_Arriola\AyED-2026-41\Etapa1\12_MiPromedio\12_MiPromedio\obj\Debug\12_MiPromedio.exe
+C:\Users\Lab AyED\Documents\4_Arriola\AyED-2026-41\Etapa1\12_MiPromedio\12_MiPromedio\obj\Debug\12_MiPromedio.pdb
